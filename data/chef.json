@@ -1,0 +1,54 @@
+[
+  {
+    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "picture": "https://example.com/chef1.jpg",
+    "name": "Chef John Doe",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 20,
+    "likes": 50000,
+    "viewRecipes": 100000,
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit, sapien quis pulvinar tempor, elit velit mollis arcu, ac gravida mauris ex sit amet quam.",
+    "recipes": [
+      {
+        "name": "Grilled Salmon",
+        "ingredients": [
+          "1 pound salmon fillet",
+          "2 tablespoons olive oil",
+          "1 lemon, sliced",
+          "1 teaspoon salt",
+          "1/2 teaspoon black pepper"
+        ],
+        "cookingMethod": "Preheat grill to medium-high heat. Brush salmon with olive oil and season with salt and pepper. Grill for 6-8 minutes per side or until cooked through. Serve with lemon slices.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Chicken Alfredo",
+        "ingredients": [
+          "1 pound fettuccine pasta",
+          "2 tablespoons butter",
+          "2 cloves garlic, minced",
+          "1 cup heavy cream",
+          "1/2 cup grated Parmesan cheese",
+          "2 cups cooked chicken, chopped"
+        ],
+        "cookingMethod": "Cook pasta according to package directions. In a separate pan, melt butter and sauté garlic until fragrant. Add cream and Parmesan cheese and stir until cheese is melted and sauce is smooth. Add chicken and cooked pasta to the pan and toss to coat. Serve hot.",
+        "rating": 4.8,
+        "favorite": false
+      },
+      {
+        "name": "Pesto Pizza",
+        "ingredients": [
+          "1 pre-made pizza crust",
+          "1/4 cup basil pesto",
+          "1/2 cup shredded mozzarella cheese",
+          "1/4 cup sliced black olives",
+          "1/4 cup chopped sun-dried tomatoes"
+        ],
+        "cookingMethod": "Preheat oven to 425°F. Spread pesto evenly over the pizza crust. Sprinkle with mozzarella cheese, black olives, and sun-dried tomatoes. Bake for 10-12 minutes or until cheese is melted and crust is crispy. Slice and serve.",
+        "rating": 4.2,
+        "favorite": false
+      }
+    ]
+  }
+]
