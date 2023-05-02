@@ -23,8 +23,7 @@
           "1 cup tomato puree",
           "1 cup heavy cream",
           "1 tablespoon garam masala",
-          "1 tablespoon turmeric",
-          "Salt and pepper to taste"
+          "1 tablespoon turmeric"
         ],
         "cookingMethod": "Heat the butter in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute. Add the chicken and cook until browned on all sides. Add the tomato puree, heavy cream, garam masala, turmeric, salt, and pepper. Reduce the heat and simmer for 15-20 minutes, stirring occasionally. Serve with rice or naan bread.",
         "rating": 4.9,
@@ -83,7 +82,7 @@
     "recipes": [
       {
         "name": "Aloo Gobi",
-        "image": "https://example.com/aloo-gobi.jpg",
+        "image": "https://i.ibb.co/K5d3ZCT/aloo-gobi.jpg",
         "review": 54,
         "ingredients": [
           "2 potatoes, peeled and cubed",
@@ -93,9 +92,7 @@
           "1 tablespoon ginger paste",
           "1 cup tomato puree",
           "1 tablespoon garam masala",
-          "1 tablespoon turmeric",
-          "1/2 teaspoon cayenne pepper",
-          "Salt and pepper to taste"
+          "1 tablespoon turmeric"
         ],
         "cookingMethod": "Heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute. Add the potatoes and cauliflower and cook until slightly browned. Add the tomato puree, garam masala, turmeric, cayenne pepper, salt, and pepper. Simmer for 15-20 minutes, stirring occasionally. Serve with rice or naan bread.",
         "rating": 4.6,
@@ -103,7 +100,7 @@
       },
       {
         "name": "Biryani",
-        "image": "https://example.com/biryani.jpg",
+        "image": "https://i.ibb.co/ySvsnqf/biryani.jpg",
         "review": 70,
         "ingredients": [
           "2 cups basmati rice",
@@ -113,9 +110,7 @@
           "1 pound boneless, skinless chicken thighs",
           "1 cup plain yogurt",
           "1 tablespoon garam masala",
-          "1 tablespoon turmeric",
-          "1/2 teaspoon cayenne pepper",
-          "Salt and pepper to taste"
+          "1 tablespoon turmeric"
         ],
         "cookingMethod": "Cook the rice according to package directions. Meanwhile, heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute. Add the chicken and cook until browned on all sides. Add the yogurt, garam masala, turmeric, cayenne pepper, salt, and pepper. Simmer for 15-20 minutes, stirring occasionally. Serve the chicken mixture over the rice.",
         "rating": 4.9,
@@ -123,7 +118,7 @@
       },
       {
         "name": "Tandoori Chicken",
-        "image": "https://example.com/tandoori-chicken.jpg",
+        "image": "https://i.ibb.co/n3YfHNW/tandoori-chicken.jpg",
         "review": "This recipe was amazing! The chicken was so tender and flavorful. I loved the combination of spices and the yogurt marinade.",
         "ingredients": [
           "2 pounds bone-in, skin-on chicken pieces",
@@ -154,7 +149,7 @@
     "recipes": [
       {
         "name": "Palak Paneer",
-        "image": "https://example.com/palak-paneer.jpg",
+        "image": "https://i.ibb.co/R0D8tQC/palak-panner.jpg",
         "review": 78,
         "ingredients": [
           "1 pound fresh spinach",
@@ -164,9 +159,7 @@
           "1 cup paneer cheese, cubed",
           "1 cup tomato puree",
           "1 tablespoon garam masala",
-          "1 tablespoon turmeric",
-          "1/2 teaspoon cayenne pepper",
-          "Salt and pepper to taste"
+          "1 tablespoon turmeric"
         ],
         "cookingMethod": "Blanch the spinach in boiling water for 1-2 minutes, then rinse under cold water and drain. Puree the spinach in a food processor or blender. Heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute. Add the paneer cheese and cook until slightly browned. Add the tomato puree, garam masala, turmeric, cayenne pepper, salt, and pepper. Simmer for 15-20 minutes, stirring occasionally. Add the spinach puree and cook for another 5-10 minutes. Serve with rice or naan bread.",
         "rating": 4.5,
@@ -174,7 +167,7 @@
       },
       {
         "name": "Chana Masala",
-        "image": "https://example.com/chana-masala.jpg",
+        "image": "https://i.ibb.co/nLQmyzG/channa-masala.jpg",
         "review": 80,
         "ingredients": [
           "2 cans chickpeas, drained and rinsed",
@@ -184,8 +177,7 @@
           "1 cup tomato puree",
           "1 tablespoon garam masala",
           "1 tablespoon turmeric",
-          "1/2 teaspoon cayenne pepper",
-          "Salt and pepper to taste"
+          "1/2 teaspoon cayenne pepper"
         ],
         "cookingMethod": "Heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute. Add the chickpeas and cook for 2-3 minutes. Add the tomato puree, garam masala, turmeric, cayenne pepper, salt, and pepper. Simmer for 15-20 minutes, stirring occasionally. Serve with rice or naan bread.",
         "rating": 4.8,
@@ -193,7 +185,7 @@
       },
       {
         "name": "Samosas",
-        "image": "https://example.com/samosas.jpg",
+        "image": "https://i.ibb.co/wCZKQHm/samosas.jpg",
         "review": 150,
         "ingredients": [
           "1 potato, peeled and diced",
@@ -203,9 +195,7 @@
           "1 cup frozen peas",
           "1 tablespoon garam masala",
           "1 tablespoon turmeric",
-          "1/2 teaspoon cayenne pepper",
-          "Salt and pepper to taste",
-          "1 package of samosa pastry sheets (or phyllo dough)"
+          "1/2 teaspoon cayenne pepper"
         ],
         "cookingMethod": "Boil the potato until soft, then drain and set aside. Heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute. Add the peas, garam masala, turmeric, cayenne pepper, salt, and pepper. Cook for 2-3 minutes, then add the boiled potato. Mix everything together and let it cool. Preheat the oven to 375°F. Cut the pastry sheets into strips. Take one strip and brush it with oil. Fold it into a triangle and fill it with the potato mixture. Brush the edges with oil and seal the samosa. Repeat with the remaining strips and filling. Bake the samosas on a baking sheet for 15-20 minutes, or until golden brown. Serve hot with chutney.",
         "rating": 4.6,
@@ -226,7 +216,7 @@
     "recipes": [
       {
         "name": "Baingan Bharta",
-        "image": "https://www.example.com/images/baingan_bharta.jpg",
+        "image": "https://i.ibb.co/bK1LbVb/baingan-bharta.jpg",
         "review": 160,
         "ingredients": [
           "1 large eggplant",
@@ -236,11 +226,7 @@
           "1 tsp cumin",
           "1 tsp coriander",
           "1 tsp garam masala",
-          "1/2 tsp turmeric",
-          "1/4 tsp cayenne pepper",
-          "1 can diced tomatoes",
-          "Salt and pepper to taste",
-          "Chopped fresh cilantro, for garnish"
+          "1/2 tsp turmeric"
         ],
         "cookingMethod": "Preheat the oven to 400°F. Prick the eggplant all over with a fork and place on a baking sheet. Roast in the oven for 45-50 minutes, or until the eggplant is soft and the skin is charred. Remove from the oven and let cool. Peel off the skin and chop the flesh. Heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the ginger paste, garlic paste, cumin, coriander, garam masala, turmeric, cayenne pepper, salt, and pepper. Cook for 1-2 minutes, or until fragrant. Add the chopped eggplant and stir to coat with the spice mixture. Add the diced tomatoes and a splash of water. Cover and cook for 10-15 minutes, or until the mixture is thickened. Garnish with cilantro and serve hot with naan or rice.",
         "rating": 4.8,
@@ -248,7 +234,7 @@
       },
       {
         "name": "Matar Paneer",
-        "image": "https://www.example.com/images/matar_paneer.jpg",
+        "image": "https://i.ibb.co/DRNMNcb/matar-panner.jpg",
         "review": 140,
         "ingredients": [
           "1 block paneer, cubed",
@@ -258,13 +244,7 @@
           "1 tbsp garlic paste",
           "1 tsp cumin",
           "1 tsp coriander",
-          "1 tsp garam masala",
-          "1/2 tsp turmeric",
-          "1/4 tsp cayenne pepper",
-          "1 can diced tomatoes",
-          "1 cup heavy cream",
-          "Salt and pepper to taste",
-          "Chopped fresh cilantro, for garnish"
+          "1 tsp garam masala"
         ],
         "cookingMethod": "Heat some oil in a large skillet over medium heat. Add the paneer and sauté until browned on all sides. Remove from the skillet and set aside. In the same skillet, add the onion and sauté until softened. Add the ginger paste, garlic paste, cumin, coriander, garam masala, turmeric, cayenne pepper, salt, and pepper. Cook for 1-2 minutes, or until fragrant. Add the frozen peas and stir to coat with the spice mixture. Add the diced tomatoes and a splash of water. Cover and cook for 10-15 minutes, or until the peas are tender. Add the heavy cream and paneer and stir to combine. Cook for an additional 2-3 minutes, or until heated through. Garnish with cilantro and serve hot with naan or rice.",
         "rating": 4.9,
@@ -272,7 +252,7 @@
       },
       {
         "name": "Malai Kofta",
-        "image": "https://www.example.com/images/malai_kofta.jpg",
+        "image": "https://i.ibb.co/WnvWCNN/malai-kofta.jpg",
         "review": 89,
         "ingredients": [
           "For the koftas:",
@@ -281,24 +261,7 @@
           "1/2 cup bread crumbs",
           "1/4 cup chopped cashews",
           "1/4 cup raisins",
-          "2 tbsp chopped cilantro",
-          "1 tsp garam masala",
-          "1 tsp cumin",
-          "1 tsp coriander",
-          "Salt and pepper to taste",
-          "For the sauce:",
-          "1 onion, chopped",
-          "1 tbsp ginger paste",
-          "1 tbsp garlic paste",
-          "1 tsp cumin",
-          "1 tsp coriander",
-          "1 tsp garam masala",
-          "1/2 tsp turmeric",
-          "1/4 tsp cayenne pepper",
-          "1 can diced tomatoes",
-          "1 cup heavy cream",
-          "Salt and pepper to taste",
-          "Chopped fresh cilantro, for garnish"
+          "2 tbsp chopped cilantro"
         ],
         "cookingMethod": "To make the koftas, mix together all the ingredients in a bowl. Form into balls and fry in hot oil until golden brown. Drain on paper towels and set aside. To make the sauce, heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the ginger paste, garlic paste, cumin, coriander, garam masala, turmeric, cayenne pepper, salt, and pepper. Cook for 1-2 minutes, or until fragrant. Add the diced tomatoes and a splash of water. Cover and cook for 10-15 minutes, or until the mixture is thickened. Add the heavy cream and stir to combine. Add the koftas to the sauce and cook for an additional 2-3 minutes, or until heated through. Garnish with cilantro and serve hot with naan or rice.",
         "rating": 4.7,
@@ -319,7 +282,7 @@
     "recipes": [
       {
         "name": "Palak Paneer",
-        "image": "https://www.example.com/images/palak_paneer.jpg",
+        "image": "https://i.ibb.co/R0D8tQC/palak-panner.jpg",
         "review": 180,
         "ingredients": [
           "1 block paneer, cubed",
@@ -329,12 +292,7 @@
           "1 tbsp garlic paste",
           "1 tsp cumin",
           "1 tsp coriander",
-          "1 tsp garam masala",
-          "1/2 tsp turmeric",
-          "1/4 tsp cayenne pepper",
-          "1/4 cup heavy cream",
-          "Salt and pepper to taste",
-          "Chopped fresh cilantro, for garnish"
+          "1 tsp garam masala"
         ],
         "cookingMethod": "Wash the spinach thoroughly and blanch in boiling water for 2-3 minutes. Drain and cool in cold water. Blend the spinach to a fine puree in a blender. Heat some oil in a large skillet over medium heat. Add the paneer and sauté until browned on all sides. Remove from the skillet and set aside. In the same skillet, add the onion and sauté until softened. Add the ginger paste, garlic paste, cumin, coriander, garam masala,",
         "rating": 4.0,
@@ -342,7 +300,7 @@
       },
       {
         "name": "Chole Bhature",
-        "image": "https://www.example.com/images/chole_bhature.jpg",
+        "image": "https://i.ibb.co/V2q99tq/chole-bhature.jpg",
         "review": 102,
         "ingredients": [
           "For the chole:",
@@ -352,20 +310,7 @@
           "1 tbsp garlic paste",
           "1 tsp cumin",
           "1 tsp coriander",
-          "1 tsp garam masala",
-          "1/2 tsp turmeric",
-          "1/4 tsp cayenne pepper",
-          "1 can diced tomatoes",
-          "1/4 cup chopped cilantro",
-          "Salt and pepper to taste",
-          "For the bhature:",
-          "2 cups all-purpose flour",
-          "1/4 cup semolina",
-          "1 tsp sugar",
-          "1/2 tsp salt",
-          "1/2 tsp baking powder",
-          "3/4 cup plain yogurt",
-          "Oil for frying"
+          "1 tsp garam masala"
         ],
         "cookingMethod": "To make the chole, heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the ginger paste, garlic paste, cumin, coriander, garam masala, turmeric, cayenne pepper, salt, and pepper. Cook for 1-2 minutes, or until fragrant. Add the chickpeas, diced tomatoes, and a splash of water. Cover and cook for 10-15 minutes, or until the mixture is thickened. Add the chopped cilantro and stir to combine. To make the bhature, combine the flour, semolina, sugar, salt, and baking powder in a bowl. Add the yogurt and knead until a smooth dough is formed. Cover and let rest for 30 minutes. Divide the dough into small balls and roll out into circles. Heat oil in a deep frying pan over medium heat. Fry the bhature until golden brown on both sides. Drain on paper towels and serve hot with the chole.",
         "rating": 4.9,
@@ -373,7 +318,7 @@
       },
       {
         "name": "Baingan Bharta",
-        "image": "https://www.example.com/images/baingan_bharta.jpg",
+        "image": "https://i.ibb.co/bK1LbVb/baingan-bharta.jpg",
         "review": 110,
         "ingredients": [
           "1 large eggplant",
@@ -383,11 +328,7 @@
           "1 tsp cumin",
           "1 tsp coriander",
           "1 tsp garam masala",
-          "1/2 tsp turmeric",
-          "1/4 tsp cayenne pepper",
-          "1/4 cup chopped cilantro",
-          "Salt and pepper to taste",
-          "Oil for frying"
+          "1/2 tsp turmeric"
         ],
         "cookingMethod": "Prick the eggplant with a fork and roast it on an open flame until the skin is charred and the flesh is soft. Cool and peel the skin off. Mash the flesh with a fork and set aside. Heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the ginger paste, garlic paste, cumin, coriander, garam masala, turmeric, cayenne pepper, salt, and pepper. Cook for 1-2 minutes, or until fragrant. Add the mashed eggplant and stir to combine. Cook for an additional 2-3",
         "rating": 4.8,
@@ -408,7 +349,7 @@
     "recipes": [
       {
         "name": "Dum Aloo",
-        "image": "https://www.example.com/images/dum_aloo.jpg",
+        "image": "https://i.ibb.co/ZLH5wnZ/dum-aloo.jpg",
         "review": 120,
         "ingredients": [
           "1 lb baby potatoes, boiled and peeled",
@@ -418,13 +359,7 @@
           "1 tsp cumin",
           "1 tsp coriander",
           "1 tsp garam masala",
-          "1/2 tsp turmeric",
-          "1/4 tsp cayenne pepper",
-          "1 cup plain yogurt",
-          "1/4 cup heavy cream",
-          "1/4 cup chopped cilantro",
-          "Salt and pepper to taste",
-          "Oil for frying"
+          "1/2 tsp turmeric"
         ],
         "cookingMethod": "Heat some oil in a large skillet over medium heat. Add the boiled and peeled baby potatoes and fry until golden brown. Remove from the skillet and set aside. In the same skillet, add the onion and sauté until softened. Add the ginger paste, garlic paste, cumin, coriander, garam masala, turmeric, cayenne pepper, salt, and pepper. Cook for 1-2 minutes, or until fragrant. Add the plain yogurt and stir to combine. Add the fried potatoes and enough water to cover them. Cover and cook for 10-15 minutes, or until the potatoes are cooked through. Add the heavy cream and chopped cilantro and stir to combine. Serve hot with rice or naan.",
         "rating": 4.7,
@@ -432,7 +367,7 @@
       },
       {
         "name": "Samosas",
-        "image": "https://www.example.com/images/samosas.jpg",
+        "image": "https://i.ibb.co/wCZKQHm/samosas.jpg",
         "review": 125,
         "ingredients": [
           "For the pastry:",
@@ -442,18 +377,7 @@
           "1/2 cup water",
           "For the filling:",
           "2 potatoes, boiled and mashed",
-          "1/2 cup frozen peas, thawed",
-          "1 onion, chopped",
-          "1 tsp ginger paste",
-          "1 tsp garlic paste",
-          "1 tsp cumin",
-          "1 tsp coriander",
-          "1 tsp garam masala",
-          "1/2 tsp turmeric",
-          "1/4 tsp cayenne pepper",
-          "1/4 cup chopped cilantro",
-          "Salt and pepper to taste",
-          "Oil for frying"
+          "1/2 cup frozen peas, thawed"
         ],
         "cookingMethod": "To make the pastry, combine the flour, salt, and oil in a large bowl. Mix well, then gradually add the water while kneading until a smooth dough forms. Cover and let rest for 30 minutes. To make the filling, heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the ginger paste, garlic paste, cumin, coriander, garam masala, turmeric, cayenne pepper, salt, and pepper. Cook for 1-2 minutes, or until fragrant. Add the mashed potatoes, peas, and cilantro. Mix well and set aside. To assemble the samosas, divide the dough into small balls. Roll each ball into a circle and cut in half. Fold each half into a cone shape and fill with the potato mixture. Seal the edges with a little water. Heat some oil in a deep skillet or pot over medium heat. Fry the samosas until golden brown and crispy. Serve hot with chutney or ketchup.",
         "rating": 4.9,
@@ -461,10 +385,9 @@
       },
       {
         "name": "Butter Chicken",
-        "image": "https://www.example.com/images/butter_chicken.jpg",
+        "image": "https://i.ibb.co/SfZTQh0/butter-chicken.jpg",
         "review": 155,
         "ingredients": [
-          "1 lb boneless, skinless chicken breasts, cut into bite-size pieces",
           "1 onion, chopped",
           "1 tbsp ginger paste",
           "1 tbsp garlic paste",
@@ -472,12 +395,7 @@
           "1 tsp coriander",
           "1 tsp garam masala",
           "1/2 tsp turmeric",
-          "1/4 tsp cayenne pepper",
-          "1/2 cup tomato puree",
-          "1/2 cup heavy cream",
-          "2 tbsp butter",
-          "Salt and pepper to taste",
-          "Chopped cilantro for garnish"
+          "1/4 tsp cayenne pepper"
         ],
         "cookingMethod": "Heat some oil in a large skillet over medium heat. Add the chicken and sauté until browned on all sides. Remove from the skillet and set aside. In the same skillet, add the onion and sauté until softened. Add the ginger paste, garlic paste, cumin, coriander, garam masala, turmeric, cayenne pepper, salt, and pepper. Cook for 1-2 minutes, or until fragrant. Add the tomato puree and cook for another 1-2 minutes. Add the heavy cream and butter and stir to combine. Add the chicken and enough water to cover it. Cover and simmer for 15-20 minutes, or until the chicken is cooked through and the sauce has thickened. Garnish with chopped cilantro and serve hot with rice or naan.",
         "rating": 4.7,
