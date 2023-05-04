@@ -6,8 +6,8 @@
     "place": "Ambala, Haryana, India,",
     "yearsOfExperience": 10,
     "numberOfRecipes": 20,
-    "likes": 50000,
-    "viewRecipes": 100000,
+    "likes": 50,
+    "viewRecipes": 100,
     "bio": "Sanjeev Kapoor is the most famous and commended chef in India. He is also an entrepreneur and a television personality. Sanjeev works for a TV channel named 'FoodFood' after which he became the world's first chef who owns a 24×7 food and lifestyle channel. He also hosted the television show 'Khana Khazana,' which was Asia's longest-running show at the time. The event was broadcast in 120 countries and received over 500 million viewers in 2010. Indian food is his cooking style. Mr. Kapoor was born in Ambala, Haryana, India, on April 10, 1964. He began his career in the hospitality sector in 1984.",
     "recipes": [
       {
@@ -27,7 +27,7 @@
         ],
         "cookingMethod": "Heat the butter in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute. Add the chicken and cook until browned on all sides. Add the tomato puree, heavy cream, garam masala, turmeric, salt, and pepper. Reduce the heat and simmer for 15-20 minutes, stirring occasionally. Serve with rice or naan bread.",
         "rating": 4.9,
-        "favorite": false
+        "favorite": true
       },
       {
         "name": "Chana Masala",
@@ -46,7 +46,7 @@
         ],
         "cookingMethod": "Heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute. Add the chickpeas, tomato puree, garam masala, turmeric, cayenne pepper, salt, and pepper. Simmer for 15-20 minutes, stirring occasionally. Serve with rice or naan bread.",
         "rating": 4.7,
-        "favorite": false
+        "favorite": true
       },
       {
         "name": "Saag Paneer",
@@ -65,7 +65,7 @@
         ],
         "cookingMethod": "Heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute. Add the spinach and cook until wilted. Add the paneer, garam masala, turmeric, cayenne pepper, salt, and pepper. Simmer for 10-15 minutes, stirring occasionally. Serve with rice or naan bread.",
         "rating": 4.8,
-        "favorite": false
+        "favorite": true
       }
     ]
   },
@@ -76,8 +76,8 @@
     "place": "Amritsar, Punjab, India.",
     "yearsOfExperience": 8,
     "numberOfRecipes": 15,
-    "likes": 55000,
-    "viewRecipes": 100000,
+    "likes": 55,
+    "viewRecipes": 104,
     "bio": "Vikas Khanna was born on 14 November 1971 in Amritsar, Punjab, India. He is an Indian chef, restaurateur, cookbook writer, filmmaker, and humanitarian. He judged the Star Plus series MasterChef India series that was telecasted on Star Plus. He got inspiration for cooking from his grandmother. He was only 17 when he opened Lawrence Gardens Banquets to host weddings and functions. Vikas Khanna completed his graduation from Manipal Academy of Higher Education and doctorate from GD Goenka University.",
     "recipes": [
       {
@@ -143,8 +143,8 @@
     "place": "Lucknow, Uttar Pradesh, India.",
     "yearsOfExperience": 6,
     "numberOfRecipes": 18,
-    "likes": 60000,
-    "viewRecipes": 100000,
+    "likes": 60,
+    "viewRecipes": 89,
     "bio": "Ranveer Brar is an Indian chef, TV & digital celebrity, judge, host, author, restaurateur, food film producer, and benefactor. He was born on 8 February 1978 in Lucknow, Uttar Pradesh, India. At present, he is engaged as the senior official food expert at the Novotel Mumbai, Juhu Beach. Other than this, he is also a supervisor at the Dosa Factory and Shalimar in Cambridge. He began his career at the Taj Hotel, Mumbai after completing his education at IHM, Lucknow.",
     "recipes": [
       {
@@ -210,8 +210,8 @@
     "place": "Udupi, Karnataka, India.",
     "yearsOfExperience": 7,
     "numberOfRecipes": 25,
-    "likes": 65000,
-    "viewRecipes": 100000,
+    "likes": 65,
+    "viewRecipes": 120,
     "bio": "Hari Nayak is a New York-based Indian chef, author, restaurateur, and culinary consultant. He was born on 8 February 1974 in Udupi, Karnataka, India. He completed his education at Welcome group Graduate School of Hotel Administration, Karnataka, and then started his journey from the Culinary Institute of America.",
     "recipes": [
       {
@@ -276,8 +276,8 @@
     "place": "Mumbai, Maharashtra, India.",
     "yearsOfExperience": 11,
     "numberOfRecipes": 28,
-    "likes": 69000,
-    "viewRecipes": 100000,
+    "likes": 69,
+    "viewRecipes": 150,
     "bio": "Vineet Bhatia is an Indian chef, restaurateur, author, and media personality. He was born on 9 December 1967in Mumbai, Maharashtra, India. He was the first Indian chef who received a Michelin Star Award and the only Indian who was awarded the prize two times. He completed his education at The Oberoi School of Hotel Management. His cooking style is modern Indian.",
     "recipes": [
       {
@@ -343,8 +343,8 @@
     "place": "Delhi, India.",
     "yearsOfExperience": 7,
     "numberOfRecipes": 21,
-    "likes": 75000,
-    "viewRecipes": 100000,
+    "likes": 75,
+    "viewRecipes": 155,
     "bio": "Saransh Goila is an Indian chef and restaurateur. He was born on 17 February 1987 in Delhi, India. He completed his education at the Institute of Hotel Management, Aurangabad. His cooking style is Indian cuisine.",
     "recipes": [
       {
