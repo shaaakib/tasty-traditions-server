@@ -8,7 +8,7 @@
     "numberOfRecipes": 20,
     "likes": 50,
     "viewRecipes": 100,
-    "bio": "Sanjeev Kapoor is the most famous and commended chef in India. He is also an entrepreneur and a television personality. Sanjeev works for a TV channel named 'FoodFood' after which he became the world's first chef who owns a 24×7 food and lifestyle channel. He also hosted the television show 'Khana Khazana,' which was Asia's longest-running show at the time.",
+    "bio": "Sanjeev Kapoor is the most famous and commended chef in India. He is also an entrepreneur and a television personality. Sanjeev works for a TV channel named 'FoodFood' ",
     "recipes": [
       {
         "name": "Butter Chicken",
@@ -17,15 +17,9 @@
         "ingredients": [
           "1 pound boneless, skinless chicken breasts",
           "1/2 cup butter",
-          "1 onion, diced",
-          "2 cloves garlic, minced",
-          "1 tablespoon ginger paste",
-          "1 cup tomato puree",
-          "1 cup heavy cream",
-          "1 tablespoon garam masala",
-          "1 tablespoon turmeric"
+          "1 onion, diced"
         ],
-        "cookingMethod": "Heat the butter in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute. Add the chicken and cook until browned on all sides.",
+        "cookingMethod": "Heat the butter in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute",
         "rating": 4.9,
         "favorite": true
       },
@@ -66,7 +60,7 @@
     "numberOfRecipes": 15,
     "likes": 55,
     "viewRecipes": 104,
-    "bio": "Vikas Khanna was born on 14 November 1971 in Amritsar, Punjab, India. He is an Indian chef, restaurateur, cookbook writer, filmmaker, and humanitarian. He judged the Star Plus series MasterChef India series that was telecasted on Star Plus. He got inspiration for cooking from his grandmother.",
+    "bio": "Vikas Khanna was born on 14 November 1971 in Amritsar, Punjab, India. He is an Indian chef, restaurateur, cookbook writer, filmmaker, and humanitarian. He judged the Star Plus series MasterChef India ",
     "recipes": [
       {
         "name": "Aloo Gobi",
@@ -118,7 +112,7 @@
     "numberOfRecipes": 18,
     "likes": 60,
     "viewRecipes": 89,
-    "bio": "Ranveer Brar is an Indian chef, TV & digital celebrity, judge, host, author, restaurateur, food film producer, and benefactor. He was born on 8 February 1978 in Lucknow, Uttar Pradesh, India. At present, he is engaged as the senior official food expert at the Novotel Mumbai, Juhu Beach.",
+    "bio": "Ranveer Brar is an Indian chef, TV & digital celebrity, judge, host, author, restaurateur, food film producer, and benefactor. He was born on 8 February 1978 in Lucknow, Uttar Pradesh, India.",
     "recipes": [
       {
         "name": "Palak Paneer",
@@ -142,7 +136,7 @@
           "1 onion, diced",
           "2 cloves garlic, minced"
         ],
-        "cookingMethod": "Heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute. Add the chickpeas and cook for 2-3 minutes.",
+        "cookingMethod": "Heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute.",
         "rating": 4.8,
         "favorite": false
       },
@@ -155,7 +149,7 @@
           "1 onion, diced",
           "2 cloves garlic, minced"
         ],
-        "cookingMethod": "Boil the potato until soft, then drain and set aside. Heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste and cook for another minute.",
+        "cookingMethod": "Boil the potato until soft, then drain and set aside. Heat some oil in a large skillet over medium heat. Add the onion and sauté until softened. Add the garlic and ginger paste .",
         "rating": 4.6,
         "favorite": false
       }
@@ -181,7 +175,7 @@
           "1 onion, chopped",
           "1 tbsp ginger paste"
         ],
-        "cookingMethod": "Preheat the oven to 400°F. Prick the eggplant all over with a fork and place on a baking sheet. Roast in the oven for 45-50 minutes, or until the eggplant is soft and the skin is charred. ",
+        "cookingMethod": "Preheat the oven to 400°F. Prick the eggplant all over with a fork and place on a baking sheet. Roast in the oven for 45-50 minutes, or until the eggplant is soft . ",
         "rating": 4.8,
         "favorite": true
       },
@@ -194,7 +188,7 @@
           "2 cups frozen peas",
           "1 onion, chopped"
         ],
-        "cookingMethod": "Heat some oil in a large skillet over medium heat. Add the paneer and sauté until browned on all sides. Remove from the skillet and set aside. In the same skillet, add the onion and sauté until softened. Add the ginger paste, garlic paste",
+        "cookingMethod": "Heat some oil in a large skillet over medium heat. Add the paneer and sauté until browned on all sides. Remove from the skillet and set aside. In the same skillet, add the onion and ",
         "rating": 4.9,
         "favorite": true
       },
